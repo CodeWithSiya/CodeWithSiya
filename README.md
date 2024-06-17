@@ -2,7 +2,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/codewithsiya)
 
 <!-- Main Heading with Markdown -->
-# <div align="center" style="font-family: 'Arial, sans-serif';">Hello, I'm Siyabonga Langa Madondo! 👋</div>
+# <div align="center" style="font-family: 'Arial, sans-serif';">Hello, I'm Siyabonga Madondo! 👋</div>
 
 <!-- Subheading with Markdown -->
 ## <div align="center" style="font-family: 'Georgia, serif'; color: #34495E;">📊 Aspiring Data Scientist and Software Engineer</div>
