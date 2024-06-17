@@ -1,57 +1,28 @@
-# 👋 Hello! I'm Siyabonga Langa Madondo.
+<h1 align="center">Hello, I'm Siyabonga Langa Madondo!👋</h1>
+<h3 align="center">📊 Aspiring Data Scientist and Software Engineer</h3>
 
-![UCT Logo](https://aucfinder.com/wp-content/uploads/2019/08/University-of-Cape-Town-UCT.png)  
-*Second-year BSc student in Computer Science and Applied Statistics at the University of Cape Town*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsiya&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsiya" /> </p>
 
----
+- 🔭 I’m currently working on **Building my Coding Portfolio.**
 
-## About Me
+- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
-🚀 As an aspiring **Software Developer** and **Data Scientist**, my passion lies in **logical thinking** and **problem-solving**. My academic journey has provided me with a strong foundation in:
+- 💬 Ask me about **Python, Java and R.**
 
-- **Python** 🐍
-- **Java** ☕
-- **R** 📊
+- 📫 You can reach me at **siyabongamadondo17@icloud.com**
 
-I am fascinated by the endless possibilities that technology offers and how it can be harnessed to address real-world challenges. I am particularly interested in the applications of **Artificial Intelligence** in shaping the future.
+- ⚡ Fun fact **I enjoy producing music using FL Studio.**
 
-## Skills and Technologies
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/siyabongamadondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siyabongamadondo" height="30" width="40" /></a>
+</p>
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) ![R Logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- **Python**: Data Analysis, Machine Learning, Web Development
-- **Java**: Object-Oriented Programming, Software Development
-- **R**: Statistical Computing, Data Visualization
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsiya&show_icons=true&locale=en&layout=compact" alt="codewithsiya" /></p>
 
-## Interests
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsiya&show_icons=true&locale=en" alt="codewithsiya" /></p>
 
-🌐 Beyond the classroom, I'm driven by a deep interest in contributing to South Africa's **technological landscape**. I am passionate about leveraging technology to make a positive impact and look forward to opportunities to work with innovative projects, especially in the realm of **Artificial Intelligence**.
-
-## Let's Connect!
-
-🤝 I am actively seeking opportunities to further develop my academic and professional skills. I am eager to collaborate with forward-thinking organizations that share my commitment to pushing the boundaries of what's possible.
-
-You can find me on:
-
-- **[LinkedIn](https://www.linkedin.com)**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **[GitHub](https://github.com)**: [Your GitHub Profile](https://github.com/your-profile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-Feel free to reach out if you want to discuss tech, projects, or any potential collaborations!
-
----
-
-## My Projects
-
-Here are some projects I've worked on:
-
-1. **[Project Name 1](https://github.com/your-profile/project1)**: Brief description of the project and its technologies.
-2. **[Project Name 2](https://github.com/your-profile/project2)**: Brief description of the project and its technologies.
-3. **[Project Name 3](https://github.com/your-profile/project3)**: Brief description of the project and its technologies.
-
----
-
-![Cape Town](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Table_Mountain_from_Signal_Hill_2015.jpg/1280px-Table_Mountain_from_Signal_Hill_2015.jpg)
-*Exploring the world of tech from the beautiful city of Cape Town!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsiya&" alt="codewithsiya" /></p>
