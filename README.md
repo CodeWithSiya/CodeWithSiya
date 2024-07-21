@@ -8,7 +8,7 @@
 ## <div align="center" style="font-family: 'Georgia, serif'; color: #34495E;">📊 Aspiring Data Scientist and Software Engineer</div>
 
 <!-- Right Aligned Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"-->>
 
 <!-- About Me Section -->
 <div style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px; color: #333;">
