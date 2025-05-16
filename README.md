@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="banner" />
-</p>
-
 <!-- Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F79A7A&center=true&vCenter=true&width=435&lines=Hey!+I'm+Siyabonga+Madondo!;Aspiring+Data+Scientist+📊;Future+Software+Engineer+💻;Lover+of+Python+and+Beats+🎧" />
