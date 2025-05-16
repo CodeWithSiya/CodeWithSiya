@@ -1,65 +1,62 @@
-<!-- Masthead with Banner Image -->
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/codewithsiya)
+<!-- Banner -->
+<p align="center">
+  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="banner" />
+</p>
 
-<!-- Main Heading with Markdown -->
-# <div align="center" style="font-family: 'Arial, sans-serif';">Hello, I'm Siyabonga Madondo! 👋</div>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F79A7A&center=true&vCenter=true&width=435&lines=Hey!+I'm+Siyabonga+Madondo!;Aspiring+Data+Scientist+📊;Future+Software+Engineer+💻;Lover+of+Python+and+Beats+🎧" />
+</p>
 
-<!-- Subheading with Markdown -->
-## <div align="center" style="font-family: 'Georgia, serif'; color: #34495E;">📊 Aspiring Data Scientist and Software Engineer</div>
+---
 
-<!-- Right Aligned Coding GIF -->
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"-->>
+### 👨‍💻 About Me
+- 🚀 Passionate about **Data Science & Software Development**
+- 🧠 Currently learning **HTML, CSS & JavaScript**
+- 💬 Comfortable with **Python, Java, R**
+- 🎵 I make music on **FL Studio** in my spare time
+- 📫 Reach me: `siyabongamadondo17@icloud.com`
 
-<!-- About Me Section -->
-<div style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px; color: #333;">
-  
-  - 🔭 I’m currently working on <strong>Building my Coding Portfolio.</strong>
-  
-  - 🌱 I’m currently learning <strong>HTML, CSS, and JavaScript.</strong>
-  
-  - 💬 Ask me about <strong>Python, Java, and R.</strong>
-  
-  - 📫 You can reach me at <strong>siyabongamadondo17@icloud.com</strong>
-  
-  - ⚡ Fun fact: <strong>I enjoy producing music using FL Studio.</strong>
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,r,html,css,git,mysql,linux,bash" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsiya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsiya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Connect With Me Section -->
-## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/siyabongamadondo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siyabongamadondo" height="30" width="40" />
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/siyabongamadondo">
+    <img src="https://img.shields.io/badge/-Siyabonga%20Madondo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:siyabongamadondo17@icloud.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/codewithsiya">
+    <img src="https://img.shields.io/badge/-@codewithsiya-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-## Languages and Tools:
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
+---
+
+### 💡 Quote for the Journey
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsiya&show_icons=true&locale=en&layout=compact" alt="codewithsiya" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithsiya&show_icons=true&locale=en" alt="codewithsiya" />
+  <img src="https://komarev.com/ghpvc/?username=codewithsiya&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
