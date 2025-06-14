@@ -10,6 +10,7 @@
 - 🧠 Currently learning **HTML, CSS & JavaScript**
 - 💬 Comfortable with **Python, Java, R**
 - 🎵 I make music on **FL Studio** in my spare time
+- 🤣 I am (almost a little too) fussy about formatting code
 - 📫 Reach me: `siyabongamadondo17@icloud.com`
 
 ---
