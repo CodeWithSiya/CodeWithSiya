@@ -1,28 +1,33 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F79A7A&center=true&vCenter=true&width=435&lines=Hey!+I'm+Siyabonga+Madondo!;Aspiring+Data+Scientist+📊;Future+Software+Engineer+💻;Lover+of+Python+and+Beats+🎧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Siyabonga+Madondo!😎;Aspiring+Data+Scientist+📊;Future+Software+Engineer+💻;Lover+of+Python+and+Beats+🎧" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Passionate about **Data Science & Software Development**
-- 🧠 Currently learning **HTML, CSS & JavaScript**
-- 💬 Comfortable with **Python, Java, R**
-- 🎵 I make music on **FL Studio** in my spare time
-- 🤣 I am (almost a little too) fussy about formatting code
-- 📫 Reach me: `siyabongamadondo17@icloud.com`
+<div align="center">
+  <h3>👨🏽‍💻 About Me 👨🏽‍💻</h3>
+  <p>🚀 Passionate about <strong>Data Science & Software Development</strong></p>
+  <p>🧠 Currently learning <strong>HTML, CSS & JavaScript</strong></p>
+  <p>💬 Comfortable with <strong>Python, Java, R & C#</strong></p>
+  <p>🎵 I make music on <strong>FL Studio</strong> in my spare time</p>
+  <p>🤣 I am (almost a little too) fussy about code formatting</p>
+  <p>📫 Reach me: <code>siyabongamadondo17@icloud.com</code></p>
+</div>
+
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">🛠️ Languages, Frameworks, Tools & Abilities 🛠️</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,html,css,git,mysql,linux,bash" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,java,cs,r,javascript,html,css,spring,git,postman,mysql,linux,bash,docker"
+  />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center"> 📈 GitHub Stats 📈 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithsiya&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -31,7 +36,7 @@
 
 ---
 
-### 🔗 Connect With Me
+<h3 align="center"> 🔗 Connect With Me 🔗 </h3>
 <p align="center">
   <a href="https://linkedin.com/in/siyabongamadondo">
     <img src="https://img.shields.io/badge/-Siyabonga%20Madondo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,7 +51,7 @@
 
 ---
 
-### 💡 Quote for the Journey
+<h3 align="center"> 🧠 Quote for the Journey 🧠 </h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
