@@ -21,7 +21,7 @@
 <h3 align="center">🛠️ Languages, Frameworks, Tools & Abilities 🛠️</h3>
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=python,java,cs,r,javascript,html,css,spring,django,git,postman,mysql,linux,bash,docker"
+    src="https://skillicons.dev/icons?i=python,java,cs,r,javascript,pytorch,html,css,spring,django,git,postman,mysql,bash,docker"
   />
 </p>
 
